@@ -10,6 +10,12 @@
 ### トロコイドアニメーション
 ![demo](./media/anime-3.gif)
 
+### sin,cosを用いていかなる曲線も描画可能なことを示す(フーリエ級数展開)
+- 放物線<br>
+![demo](./media/ani.gif)
+- 矩形波<br>
+![demo](./media/anisqu.gif)
+
 ### 環境
 - python3.8
 - numpy 1.18.5
