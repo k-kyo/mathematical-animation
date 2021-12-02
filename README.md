@@ -9,3 +9,9 @@
 
 ### トロコイドアニメーション
 ![demo](./media/anime-3.gif)
+
+### 環境
+python3.8
+numpy 1.18.5
+matplotlib 3.2.1
+sympy 1.6
